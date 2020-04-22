@@ -1,0 +1,2 @@
+site-id,user,password,host-api-url,max-data-size,parent-project-name,app-auth-token,work_folder,site_guid,user_group
+communitytechnologyalliance,xxxxxxxx@ctagroup.org,yyyyyyyyyyyyy,https://10ay.online.tableau.com/api/3.4/,64MB,HUD_Projects,BBBBBBBBB,\CTAWorkFolder,5e83xy75-b521-4c20-b02f-xyz67xybe664,DS_data_uploaders
